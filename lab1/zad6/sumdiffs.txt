@@ -1,0 +1,8 @@
+Wielomiany:
+dla przedzialu od 0 do 1 suma roznic wartosci wynosi 11.658517
+dla przedzialu od 0 do 64 suma roznic wartosci wynosi 82280.957686
+Funkcje sklejane:
+dla przedzialu od 0 do 1 suma roznic wartosci wynosi 14.475949
+dla przedzialu od 0 do 64 suma roznic wartosci wynosi 120.558010
+
+

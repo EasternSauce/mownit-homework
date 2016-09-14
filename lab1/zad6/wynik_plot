@@ -1,0 +1,1 @@
+plot  "wartosci.txt" w points pointsize 3 , "inter1.txt", "inter2.txt", sqrt(x)

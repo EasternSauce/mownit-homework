@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo -e "a,alg,n" > data.txt
+for i in {1..10}
+do
+	./gsl_qng $i >> data.txt
+	./gsl_qag $i >> data.txt
+	./gsl_qawo $i >> data.txt
+done

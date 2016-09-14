@@ -1,0 +1,1 @@
+Numerical methods (fourth semester) homework, usage of GSL libraries and R language.
